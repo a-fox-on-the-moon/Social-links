@@ -65,11 +65,9 @@ a {
   border-radius: 7px;
   width: 18rem;
   height: 2.5rem;
-  transition: 0.2s ease;
 }
 
 a:hover {
   color: hsl(0, 0%, 12%);
   background-color: hsl(75, 94%, 57%);
-  transform: scale(1.05);
 }
